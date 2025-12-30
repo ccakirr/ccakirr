@@ -104,7 +104,7 @@ Implemented client-server communication using Unix signals (SIGUSR1, SIGUSR2).
 ## 🎓 Education
 
 **Istanbul Aydın University** — Software Development *(2023 - Present)*  
-**42 Istanbul** — Project-Based Software Engineering Program *(2024 - Present)*
+**42 Istanbul** — Project-Based Software Engineering Program *(2025 - Present)*
 
 ---
 
