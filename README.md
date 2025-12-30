@@ -59,7 +59,7 @@ Modern real-time chat application with JWT authentication, profile management, a
 🔗 **[Live Demo](https://mern-chatapp-production-a75e.up.railway.app/)**
 
 ### 🛍 Product Store — Inventory Management
-Full-stack e-commerce platform with product CRUD operations and stock tracking.  
+Full-stack e-commerce inventory management panel with product CRUD operations.  
 **Tech:** MERN Stack (MongoDB, Express, React, Node.js), Chakra UI  
 🔗 **[Live Demo](https://mern-productstore-production.up.railway.app/)**
 
@@ -70,7 +70,7 @@ Collaborative platform for sharing thoughts and notes with real-time updates.
 
 ### 💪 Supplement Tracker
 Inventory management and tracking system for supplements and nutrition products.  
-**Tech:** React, TypeScript, Tailwind CSS, Railway deployment  
+**Tech:** React, TypeScript, Tailwind CSS, ASP.NET  
 🔗 **[Live Demo](https://supplement-app-production.up.railway.app/)**
 
 ### 🎬 Movie Discovery App
