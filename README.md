@@ -36,6 +36,10 @@ My main interests include **Full-Stack Development, AI-assisted software enginee
 ---
 
 ## 🔴 Live Projects
+### 🛍 Chat App — MERN
+A modern real-time chat app featuring authentication, profile photos, and live online user tracking.
+🔗 https://mern-chatapp-production-a75e.up.railway.app/
+
 ### 🛍 Product Store — MERN
 Simple product & stock management  
 🔗 https://mern-productstore-production.up.railway.app/
