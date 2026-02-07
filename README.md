@@ -51,56 +51,6 @@ I actively develop and deploy real-world projects, focusing on **clean code, sca
 
 ---
 
-## 🔴 Live Production Projects
-
-### 💬 Chat App — Real-time Messaging Platform
-Modern real-time chat application with JWT authentication, profile management, and live online status tracking.  
-**Tech:** React, Node.js, MongoDB, Socket.io, Cloudinary, Tailwind CSS  
-🔗 **[Live Demo](https://mern-chatapp-production-a75e.up.railway.app/)**
-
-### 🛍 Product Store — Inventory Management
-Full-stack e-commerce inventory management panel with product CRUD operations.  
-**Tech:** MERN Stack (MongoDB, Express, React, Node.js), Chakra UI  
-🔗 **[Live Demo](https://mern-productstore-production.up.railway.app/)**
-
-### 🧠 ThinkBoard — Idea Sharing Platform
-Collaborative platform for sharing thoughts and notes with real-time updates.  
-**Tech:** React, Node.js, Express, MongoDB, Tailwind CSS  
-🔗 **[Live Demo](https://mern-thinkboard-production-1fee.up.railway.app/)**
-
-### 💪 Supplement Tracker
-Inventory management and tracking system for supplements and nutrition products.  
-**Tech:** React, TypeScript, Tailwind CSS, ASP.NET  
-🔗 **[Live Demo](https://supplement-app-production.up.railway.app/)**
-
-### 🎬 Movie Discovery App
-Browse and discover movies with search, filtering, and detailed information pages.  
-**Tech:** React, Movie API integration, responsive design  
-🔗 **[Live Demo](https://movieapp-production-02e2.up.railway.app/)**
-
-
----
-
-## 🚀 Notable 42 Istanbul Projects
-
-### 🖥️ Minishell — Custom Unix Shell
-Built a fully functional Unix shell from scratch with pipes, redirections, environment variables, and signal handling.  
-**Skills:** C programming, process management, parsing, memory management
-
-### 🔄 Push_swap — Algorithm Optimization
-Developed efficient sorting algorithms to sort stacks with minimal operations (500 numbers in <5500 operations).  
-**Skills:** Algorithm design, complexity optimization, data structures
-
-### 🎮 So_long — 2D Game Engine
-Created a 2D game using MLX graphics library with texture loading, collision detection, and game mechanics.  
-**Skills:** Graphics programming, event handling, game logic
-
-### 📡 Minitalk — Inter-Process Communication
-Implemented client-server communication using Unix signals (SIGUSR1, SIGUSR2).  
-**Skills:** Unix signals, bitwise operations, IPC protocols
-
----
-
 ## 🎓 Education
 
 **Istanbul Aydın University** — Software Development *(2023 - Present)*  
