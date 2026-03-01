@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello — I'm Caner</h1>
+<h1 align="center">⚡ Caner Çakır</h1>
 <h3 align="center">
-Full-Stack Developer | Software Development Student | 42 Istanbul
+Full-Stack Engineer | AI Systems Builder | Software Developer
 </h3>
 
 <p align="center">
@@ -9,19 +9,21 @@ Full-Stack Developer | Software Development Student | 42 Istanbul
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-Full-stack developer passionate about building modern web applications and system-level software.
+I’m a full-stack engineer focused on building intelligent systems — combining modern web technologies with AI-driven backend architectures.
 
-Currently studying **Software Development at Istanbul Aydın University** and completing intensive project-based training at **42 Istanbul**, where I build Unix shells, game engines, and algorithm optimization systems from scratch.
+Currently studying **Software Development at Istanbul Aydın University** and completing the intensive, project-based engineering program at **42 Istanbul**, where I build low-level systems and algorithmic projects from scratch.
 
-I actively develop and deploy real-world projects, focusing on **clean code, scalable architectures, and hands-on problem solving**.
+I care about:
 
-**Focus areas:** Modern web development, **AI automation & integration**, **DevOps workflows**, backend systems, and low-level programming.
+- 🏗 Clean and scalable architecture  
+- ⚙️ Backend system design  
+- 🤖 AI integration & automation  
+- 🧠 LLM-based reasoning systems  
+- 💻 Low-level programming fundamentals  
 
----
-
-## 🛠 Technologies & Tools
+I build complete products — from frontend UI to AI decision engines.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
@@ -51,25 +53,39 @@ I actively develop and deploy real-world projects, focusing on **clean code, sca
 
 ---
 
-## 🎓 Education
+## 🚀 Current Focus
 
-**Istanbul Aydın University** — Software Development *(2023 - Present)*  
-**42 Istanbul** — Project-Based Software Engineering Program *(2025 - Present)*
+- Building AI-powered automation systems
+- Developing rule-based + LLM-evaluated decision systems
+- Designing RAG pipelines with structured outputs
+- Improving backend architecture & latency optimization
+- Strengthening system-level knowledge through 42 projects
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education
 
-📍 **Location:** Istanbul, Türkiye  
-🔗 **GitHub:** [github.com/ccakirr](https://github.com/ccakirr)  
-🔗 **LinkedIn:** [linkedin.com/in/ccakirr](https://www.linkedin.com/in/ccakirr/)  
-📧 **Email:** canercakir6134@gmail.com
+**Istanbul Aydın University** — Software Development (2023–Present)  
+**42 Istanbul** — Project-Based Software Engineering Program  
 
-💼 **Open to:** Junior developer roles, AI/DevOps internships, freelance projects & technical collaboration  
-🎯 **Seeking:** Entry-level/Junior Full-Stack Developer or AI Engineer position | Remote or Istanbul-based
+---
+
+## 📍 Location
+
+Istanbul, Türkiye
+
+---
+
+## 🤝 Open To
+
+- Junior / Entry-Level Full-Stack roles  
+- Backend engineering  
+- AI integration & automation roles  
+- Software engineering internships  
+- Technical collaboration & freelance work  
 
 ---
 
 <p align="center">
-  <i>⚡ "Building scalable solutions with AI-powered automation"</i>
+  <i>Building scalable systems that combine software engineering with AI.</i>
 </p>
