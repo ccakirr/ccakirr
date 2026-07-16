@@ -1,6 +1,6 @@
 <h1 align="center">Caner Çakır</h1>
 <h3 align="center">
-Python Developer · AI & ML Engineering · Quantitative Development
+Software Developer · AI & ML Engineering · Quantitative Development
 </h3>
 
 <p align="center">
