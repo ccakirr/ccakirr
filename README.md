@@ -3,17 +3,28 @@
 Software Developer · AI & ML Engineering · Quantitative Development
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccakirr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
-</p>
+## 👨‍💻 About Me
 
----
+I'm Caner, a Software Development student focused on **AI Engineering** and building real-world software products.
 
-## About Me
+I work on both sides of the field: building intelligent applications with **LLMs, RAG, and agentic systems**, while understanding the foundations underneath — machine learning, deep learning, neural networks, and reinforcement learning. What draws me in is the full lifecycle of an AI system, from data and model development to backend architecture, deployment, and product integration.
 
-I'm a developer working across **AI/ML engineering**, **backend systems**, and **quantitative modeling**. I build end-to-end products — from LLM pipelines and RAG architectures to production APIs and data-driven decision systems.
+I'm most interested in where **AI, software engineering, and product** meet. I want to build systems that aren't just technically interesting, but useful, scalable, and capable of becoming real products — which is also why I care about **entrepreneurship**. My long-term direction is to combine engineering and business by building my own AI-powered products and technology companies.
 
-Currently studying **Software Development at Istanbul Aydın University**, with hands-on experience through internship projects and a voluntary position in **quantitative sports analytics** using RAG and structured LLM outputs.
+I'm also drawn to **Quantitative Finance** — applying machine learning, intelligent agents, and data-driven systems to financial markets.
+
+For me, engineering isn't only about writing code. It's about understanding how things work, building them from the ground up, and turning ideas into systems that create real value.
+
+### 🎯 Focus Areas
+* 🤖 Artificial Intelligence & AI Engineering
+* 🧠 Machine Learning & Deep Learning
+* 🕸️ Neural Networks
+* 🎮 Reinforcement Learning
+* 💬 Generative AI, RAG & Agentic Systems
+* ⚙️ MLOps & Production AI
+* 🧩 Backend & Full-Stack Engineering
+* 📊 Quantitative Finance & Algorithmic Trading
+
 
 ---
 
@@ -21,15 +32,13 @@ Currently studying **Software Development at Istanbul Aydın University**, with 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,18 +48,10 @@ Currently studying **Software Development at Istanbul Aydın University**, with 
 
 ---
 
-## 🚀 Current Focus
-
-- **AI/ML pipelines** — RAG architectures, structured LLM outputs, agent systems
-- **Quantitative development** — forward pricing, statistical arbitrage, systematic trading research
-- **Backend** — async FastAPI + SQLAlchemy + Pydantic v2 for production systems
-
----
-
 ## 🎓 Education
 
 **Istanbul Aydın University** — Software Development (2023–Present)
-
+**42 İstanbul - Core Curriculum (May/2025-August/2026)
 ---
 
 ## 📍 Location
