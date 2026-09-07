@@ -52,7 +52,7 @@ For me, engineering isn't only about writing code. It's about understanding how 
 
 **Istanbul Aydın University** — Software Development (2023–Present)
 
-**42 İstanbul - Core Curriculum (May/2025-August/2026)
+**42 İstanbul** - Core Curriculum (2025-2026)
 ---
 
 ## 📍 Location
