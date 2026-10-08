@@ -5,15 +5,17 @@ Software Developer · AI & ML Engineering · Quantitative Development
 
 ## 👨‍💻 About Me
 
-I'm Caner, a Software Development student focused on **AI Engineering** and building real-world software products.
+While studying Software Development at Istanbul Aydın University, I am building my focus around **AI Engineering**, machine learning, and modern software architectures. Rather than treating models or intelligent components as isolated pieces, I am particularly interested in integrating them with backend systems, APIs, data pipelines, evaluation processes, and product layers to build **end-to-end AI systems** — from classical ML to LLMs, RAG, and agentic applications.
 
-I work on both sides of the field: building intelligent applications with **LLMs, RAG, and agentic systems**, while understanding the foundations underneath — machine learning, deep learning, neural networks, and reinforcement learning. What draws me in is the full lifecycle of an AI system, from data and model development to backend architecture, deployment, and product integration.
+For me, successful AI engineering is not only about achieving strong model performance. It is about making AI systems **measurable, reliable, scalable, and usable** as part of real software products. This is why I am especially interested in the intersection of artificial intelligence and software engineering.
 
-I'm most interested in where **AI, software engineering, and product** meet. I want to build systems that aren't just technically interesting, but useful, scalable, and capable of becoming real products — which is also why I care about **entrepreneurship**. My long-term direction is to combine engineering and business by building my own AI-powered products and technology companies.
+Alongside my technical education, I study Economics at Istanbul University, which gives me an additional perspective on data, decision-making, economic systems, and market dynamics. This interdisciplinary background also supports my interest in **quantitative finance** and data-driven systems, where software, mathematics, and economics intersect.
 
-I'm also drawn to **Quantitative Finance** — applying machine learning, intelligent agents, and data-driven systems to financial markets.
+My experience at 42 Istanbul strengthened my foundations in systems programming, algorithmic problem-solving, and low-level thinking. It also shaped the way I approach technology: not only understanding how to use tools, but also questioning how they work underneath.
 
-For me, engineering isn't only about writing code. It's about understanding how things work, building them from the ground up, and turning ideas into systems that create real value.
+I enjoy moving across disciplines, learning new technologies, and connecting different layers of engineering to turn ideas into working systems.
+
+In the long term, my goal is to combine artificial intelligence, strong software engineering fundamentals, systems thinking, and analytical reasoning to build scalable, intelligent systems with real-world impact.
 
 ### 🎯 Focus Areas
 * 🤖 Artificial Intelligence & AI Engineering
