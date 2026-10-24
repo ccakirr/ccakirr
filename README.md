@@ -17,17 +17,6 @@ I enjoy moving across disciplines, learning new technologies, and connecting dif
 
 In the long term, my goal is to combine artificial intelligence, strong software engineering fundamentals, systems thinking, and analytical reasoning to build scalable, intelligent systems with real-world impact.
 
-### 🎯 Focus Areas
-* 🤖 Artificial Intelligence & AI Engineering
-* 🧠 Machine Learning & Deep Learning
-* 🕸️ Neural Networks
-* 🎮 Reinforcement Learning
-* 💬 Generative AI, RAG & Agentic Systems
-* ⚙️ MLOps & Production AI
-* 🧩 Backend & Full-Stack Engineering
-* 📊 Quantitative Finance & Algorithmic Trading
-
-
 ---
 
 ## 🛠 Tech Stack
